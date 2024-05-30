@@ -1,0 +1,11 @@
+{
+  "3":{"pages":[{"picture":"questtutorial_hintstorepic1","text":"Open the [hints] store"}, {"picture":"questtutorial_revealletterpic2","text":"Shop for [hints]"}]},
+  "2":{"pages":[{"picture":"questtutorial_coinstorepic1","text":"Open the coin store"}, {"picture":"questtutorial_coinstorepic2","text":"Shop for amazing coin packages"}]},
+  "1":{"pages":[{"picture":"questtutorial_zoominpictutorial","text":"Tap on the photo to zoom"}]},
+  "6":{"pages":[{"picture":"questtutorial_hintstorepic1","text":"Open the [hints] store"}, {"picture":"questtutorial_removeletterpic2","text":"Choose remove a letter"}, {"picture":"questtutorial_removeletterpic3","text":"Letter is removed"}]},
+  "5":{"pages":[{"picture":"questtutorial_hintstorepic1","text":"Open the [hints] store"}, {"picture":"questtutorial_revealletterpic2","text":"Choose reveal a letter"}, {"picture":"questtutorial_revealletterpic3","text":"Letter is revealed"}]},
+  "4":{"pages":[{"picture":"questtutorial_hintstorepic1","text":"Open the [hints] store"}, {"picture":"questtutorial_revealfirstwordpic2","text":"Choose reveal first photo"}, {"picture":"questtutorial_revealfirstwordpic3","text":"Photo is revealed"}]},
+  "9":{"pages":[{"picture":"questtutorial_videoadspic1","text":"You can watch video ads here"}, {"picture":"questtutorial_videoadspic2_1","text":"Or add more coins to your earnings"}, {"picture":"questtutorial_videoadspic3","text":"Or watch video ads in the coins store"}]},
+  "8":{"pages":[{"picture":"questtutorial_themepackpicnew1","text":"Go to menu screen"}, {"picture":"questtutorial_themepackpicnew2","text":"Shop for fun theme packs"}]},
+  "39":{"pages":[{"picture":"questtutorial_interstitialadspic1","text":"Open the coins store"}, {"picture":"questtutorial_interstitialadspic2","text":"Enable or disable this feature"}]}
+}

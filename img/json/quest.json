@@ -1,0 +1,14 @@
+{
+  "id":"51",
+  "title":"Search and Open Pets Race",
+  "isEnabled":"0",
+  "repeatCount":"1",
+  "triggerEventIds":"petsraceSearch",
+  "isTutorial":"1",
+  "order":"67",
+  "rewardAmount":"100",
+  "iconImageName":"petsrace_icon.png",
+  "unlockLevel":"25",
+  "requiredQuestIds":"0",
+  "popupAppearanceFlag":"default"
+}

@@ -1,0 +1,10 @@
+{
+    "easy": "#FFACD373",
+    "medium": "#FF7DC6F0",
+    "hard": "#FFA87ACE",
+    "extreme": "#FFD85063",
+    "in_progress": "#FFFAC541",
+    "complete": "#FF919191",
+    "special_offer": "#FF8B0000",
+    "replay_in_progress": "#FF919191"
+}

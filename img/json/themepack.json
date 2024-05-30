@@ -1,0 +1,9 @@
+{
+  "key":"crossPromoThemePack",
+  "name":"Plexiword",
+  "difficulty":"Special Offer",
+  "image":"plexiwordcover.png",
+  "cost":"0",
+  "orderInUI":"2",
+  "enable":"1"
+}

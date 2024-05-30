@@ -1,0 +1,13 @@
+{
+  "popup_pg":"petsracecrosspromopopup.png",
+  "header_title":"Special Offer",
+  "description":"Play 3 days and earn [@]%d",
+  "yes_button_text":"Install & play",
+  "no_button_text":"No Thanks",
+  "yes_button":"yes.png",
+  "yes_button_p":"yes_p.png",
+  "no_button":"no.png",
+  "no_button_p":"no_p.png",
+  "coin_icon":"coin_icon.png",
+  "reward_icon":"coin_icon.png"
+}
